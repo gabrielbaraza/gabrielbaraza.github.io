@@ -1,0 +1,49 @@
+
+nav.theme-dark, nav.theme-dark ul.links-wrapper.active { background-image: linear-gradient(90deg,#7f5af0, #2cb67d); }
+
+header.theme-dark   { background-color: black }
+
+
+
+section.theme-dark   { background-color: black }
+
+footer.theme-dark   { background-color: black }
+
+
+
+header .col-text h2, .col-1 > h3 { line-height: 1.8 ;}
+
+.col-text h2 {
+    background: linear-gradient(180deg, #7f5af0, #2cb67d);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
+.col-text h1 {
+    background: linear-gradient(90deg, #7f5af0, #2cb67d);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
+.badge {
+    background-image: linear-gradient(90deg,#7f5af0, #2cb67d);
+}
+
+.links-wrapper {
+    color : black;
+}
+
+.header {
+    background-image: url(../img/pexels-pixabay-247791.jpg);
+    background-size: cover; /* ou background-size: contain; en fonction de vos préférences */
+    background-repeat: no-repeat;
+}
+
+.theme-dark .section-selector-1 h2 {
+    background: linear-gradient(90deg, #7f5af0, #2cb67d);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
