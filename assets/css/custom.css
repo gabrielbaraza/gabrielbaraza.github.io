@@ -18,6 +18,7 @@ header .col-text h2, .col-1 > h3 { line-height: 1.8 ;}
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
+    font: Prata;
 }
 
 .col-text h1 {
@@ -46,4 +47,10 @@ header .col-text h2, .col-1 > h3 { line-height: 1.8 ;}
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
-  }
+}
+
+
+h1 { 
+    font-family: 'Oswald', serif; 
+    letter-spacing: 1px;
+}
