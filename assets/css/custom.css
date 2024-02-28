@@ -50,7 +50,7 @@ header .col-text h2, .col-1 > h3 { line-height: 1.8 ;}
 }
 
 
-h1 { 
+h1,h2,h3,p { 
     font-family: 'Oswald', serif; 
     letter-spacing: 1px;
 }
